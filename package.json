@@ -1,5 +1,5 @@
 {
-  "name": "webpack-imports",
+  "name": "webpack-dynamic-imports",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,8 @@
     "next": "9.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "resolutions": {
+    "webpack": "5.0.0-beta.22"
   }
 }
